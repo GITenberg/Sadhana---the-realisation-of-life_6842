@@ -1,0 +1,29 @@
+_repo: Sadhana---the-realisation-of-life_6842
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Values'
+- !lcsh 'Philosophy, Hindu'
+- !lcc 'B'
+- GITenberg
+tableOfContents: The relation of the individual to the universe -- Soul consciousness
+  -- The problem of evil -- The problem of self -- Realisation in love -- Realisation
+  in action -- The realisation of beauty -- The realisation of the infinite.
+title: 'Sadhana : the realisation of life'
+url: http://www.gutenberg.org/ebooks/6842
